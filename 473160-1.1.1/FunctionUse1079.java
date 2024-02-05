@@ -1,0 +1,6 @@
+import ch.qos.logback.core.net.SyslogAppenderBase;
+public class FunctionUse1079 {
+public void funcUse() {
+SyslogAppenderBase syslogappenderbase = new SyslogAppenderBase();
+}
+}
